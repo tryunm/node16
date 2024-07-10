@@ -2,7 +2,7 @@
   "name": "@tsconfig/node16",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tsconfig/bases.git",
+    "url": "https://github.com/tryunm/ICP-AZLE-CODE.git",
     "directory": "bases"
   },
   "license": "MIT",
